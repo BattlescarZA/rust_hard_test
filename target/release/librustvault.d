@@ -1,0 +1,1 @@
+D:\quantanova\rust_hard_test\target\release\librustvault.rlib: D:\quantanova\rust_hard_test\src\client.rs D:\quantanova\rust_hard_test\src\error.rs D:\quantanova\rust_hard_test\src\lib.rs D:\quantanova\rust_hard_test\src\protocol.rs D:\quantanova\rust_hard_test\src\server.rs D:\quantanova\rust_hard_test\src\store.rs D:\quantanova\rust_hard_test\src\wal.rs
